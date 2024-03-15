@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cgi (0.4.1)
+    dimples (10.1.2)
+      erb (~> 4.0)
+      redcarpet (~> 3.6)
+      tilt (~> 2.3)
+    erb (4.0.4)
+      cgi (>= 0.3.3)
+    redcarpet (3.6.0)
+    tilt (2.3.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  dimples
+
+BUNDLED WITH
+   2.4.21
